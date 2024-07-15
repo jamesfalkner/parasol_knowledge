@@ -19,7 +19,7 @@ If an at-fault driver is uninsured or doesn’t have enough coverage to pay for 
 Any claims submitted to Parasol Insurance for loss of income or uninsured motorists must include all information Parasol Insurance needs to meet federal and state requirements.
 
 ## Apex plus package
-The Parasol insrurance Apex plus package provides additional coverage to motorist on top of their insurance policy.  The Apex plus package includes the following:
+The Parasol insurance Apex plus package provides additional coverage to motorist on top of their insurance policy.  The Apex plus package includes the following:
 
 Loss of income coverage.  Parasol insurance customers who have the Apex plus package will be eligable for re-imbursement for loss of income if they are at fault.
 Uninsured motorist coverage.  Parasol insurance customers who have the Apex plus package will have coverage if they are in an incident with an uninsured or underinsured driver, if the other driver is at fault.
