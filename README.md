@@ -1,1 +1,1 @@
-a test repo with simulated insurance data and online articles to test how LAB training works.. 
+This repo is the Knoweldge data for the Parasol app to train InstructLab. 
