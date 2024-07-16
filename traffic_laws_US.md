@@ -30,19 +30,6 @@ facilities (such as national parks and military posts), several federal
 agencies have also developed their own traffic laws.
 
 ## Standard rules
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>State-specific rules</strong></p>
-<ul>
-<li><a href="Transportation_in_Connecticut#Rules_of_the_road"
-title="wikilink">Connecticut</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
 List of some standard rules of the road:
 
 -   Entering and leaving roadways.
