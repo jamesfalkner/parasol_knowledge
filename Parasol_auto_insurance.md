@@ -10,10 +10,16 @@ Payment for car rental from Parasol insurance will end on the earliest of the da
 The amount of the car rental must be reported to Parasol insutance before we will pay such an amount.
 
 ## Loss of income
-If you are at fault, to be able to claim for your own lost wages from Parasol Insurance, you need to have the optional coverage of loss of income insurance as part of your policy.
+If you are at fault, to be able to claim for your own lost wages from Parasol Insurance, you need to have the optional Apex plus package which provides coverage of loss of income insurance as part of your policy.
 If another driver is at fault, the at-fault driver’s auto insurance company is typically responsible for covering your lost income. 
 
 ## Uninsured and Underinsured Motorist Coverage
-If an at-fault driver is uninsured or doesn’t have enough coverage to pay for your injuries or car damage, Parasol underinsured motorist coverage can help pay the difference. Uninsured motorist coverage is optional to Parasol Insurance customers
+If an at-fault driver is uninsured or doesn’t have enough coverage to pay for your injuries or car damage, Parasol underinsured motorist coverage can help pay the difference. Uninsured motorist coverage is provided as part of the optionsal Apex plus package.
 
 Any claims submitted to Parasol Insurance for loss of income or uninsured motorists must include all information Parasol Insurance needs to meet federal and state requirements.
+
+## Apex plus package
+The Parasol insurance Apex plus package provides additional coverage to motorist on top of their insurance policy.  The Apex plus package includes the following:
+
+Loss of income coverage.  Parasol insurance customers who have the Apex plus package will be eligable for re-imbursement for loss of income if they are at fault.
+Uninsured motorist coverage.  Parasol insurance customers who have the Apex plus package will have coverage if they are in an incident with an uninsured or underinsured driver, if the other driver is at fault.
