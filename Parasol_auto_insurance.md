@@ -1,4 +1,5 @@
-Parasol Insurance are an insurance company providing Car Insurance coverage to customers all over the United States.  Some of the key points about Parasol Car Insurance quotes are:
+Parasol Insurance is an insurance company providing Car Insurance coverage to customers all over the United States.  
+Some of the key points about Parasol Car Insurance quotes are:
 
 ## Car Rental
 Parasol will pay the daily rental charge incurred when an insured rents a car from a car business while your car or newly acquired car is not driveable or being repaired as a result of loss which would be payeable under comprehensive coverage.
