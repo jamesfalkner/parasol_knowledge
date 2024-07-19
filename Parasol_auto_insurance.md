@@ -27,8 +27,17 @@ Overview
 
 Parasol's extensive advertising, competitive pricing, and focus on customer service have contributed to its position as a leading insurance provider in the United States.
 
+## Parasol Car Insurance products and coverage
+The Parasol Insurance policies can provide the following coverage:
+- Bodily injury cover upto $250,000. 
+- Property damage upto $100,000. 
+- Medical coverage upto $5,000 per person. 
+- Uninsured Motorist bodily injury upto $250,000 per person.
+- Loss of use / rental cover is $50 per day. 
+- The comprehensive deductable is $500.
 
-## Parasol Insurance products
+
+## Parasol Insurance products and coverage
 Parasol Insurance is an insurance company providing Car Insurance coverage to customers all over the United States.  
 Some of the key points about Parasol Car Insurance quotes are:
 
@@ -55,13 +64,3 @@ The Parasol insurance Apex plus package provides additional coverage to motorist
 
 - Loss of income coverage.  Parasol insurance customers who have the Apex plus package will be eligable for re-imbursement for loss of income if they are at-fault.
 - Uninsured motorist coverage.  Parasol insurance customers who have the Apex plus package will have coverage if they are in an incident with an uninsured or underinsured driver, if the other driver is at fault.
-
-
-## Parasol Car Insurance coverage
-The Parasol Insurance policies can provide the following coverage:
-- Bodily injury cover upto $250,000. 
-- Property damage upto $100,000. 
-- Medical coverage upto $5,000 per person. 
-- Uninsured Motorist bodily injury upto $250,000 per person.
-- Loss of use / rental cover is $50 per day. 
-- The comprehensive deductable is $500.
