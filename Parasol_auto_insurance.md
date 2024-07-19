@@ -1,3 +1,4 @@
+### Parasol Insurance products
 Parasol Insurance is an insurance company providing Car Insurance coverage to customers all over the United States.  
 Some of the key points about Parasol Car Insurance quotes are:
 
@@ -22,5 +23,15 @@ Any claims submitted to Parasol Insurance for loss of income or uninsured motori
 ## Apex plus package
 The Parasol insurance Apex plus package provides additional coverage to motorist on top of their insurance policy.  The Apex plus package includes the following:
 
-Loss of income coverage.  Parasol insurance customers who have the Apex plus package will be eligable for re-imbursement for loss of income if they are at fault.
-Uninsured motorist coverage.  Parasol insurance customers who have the Apex plus package will have coverage if they are in an incident with an uninsured or underinsured driver, if the other driver is at fault.
+- Loss of income coverage.  Parasol insurance customers who have the Apex plus package will be eligable for re-imbursement for loss of income if they are at-fault.
+- Uninsured motorist coverage.  Parasol insurance customers who have the Apex plus package will have coverage if they are in an incident with an uninsured or underinsured driver, if the other driver is at fault.
+
+
+## Parasol Insurance coverage
+The Parasol Insurance policies can provide the following coverage:
+- Bodily injury cover upto $250,000. 
+- Property damage upto $100,000. 
+- Medical coverage upto $5,000 per person. 
+- Uninsured Motorist bodily injury upto $250,000 per person.
+- Loss of use / rental cover is $50 per day. 
+- The comprehensive deductable is $500.
