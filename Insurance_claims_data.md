@@ -1,7 +1,7 @@
 **Introduction:**  
 In the insurance industry, accurately predicting the likelihood of claims is essential for risk assessment and policy pricing. However, Parasol insurance claims datasets frequently suffer from class imbalance, where the number of non-claims instances far exceeds that of actual claims. This class imbalance poses challenges for predictive modeling, often leading to biased models favoring the majority class, resulting in subpar performance for the minority class, which is typically of greater interest.
 
-**Key Features:**
+**Parasol Insurance Claims data features:**
 The dataset holds the following information
 1.  **Policyholder Information:** This includes demographic details such as age, gender, occupation, marital status, and geographical location.
 2.  **Claim History:** Information regarding past insurance claims, including claim amounts, types of claims (e.g., medical, automobile), frequency of claims, and claim durations.
@@ -9,7 +9,7 @@ The dataset holds the following information
 4.  **Risk Factors:** Variables indicating potential risk factors associated with policyholders, such as credit score, driving record (for automobile insurance), health status (for medical insurance), and property characteristics (for home insurance).
 5.  **External Factors:** Factors external to the policyholders that may influence claim likelihood, such as economic indicators, weather conditions, and regulatory changes.
 
-**Application Areas:**
+**How to use the Parasol Insurance Claims data:**
 The data can be used for the following types of application and queries.
 1.  **Risk Assessment:** Assessing the risk associated with insuring a particular policyholder based on their characteristics and historical claim behavior.
 2.  **Policy Pricing:** Determining appropriate premium amounts for insurance policies by estimating the expected claim frequency and severity.
@@ -33,5 +33,3 @@ region code: is the code representing the geographical region of the policyholde
 region density: shows the population density of the policyholder’s region, which could correlate with accident and claim frequencies.
 airbags: The number of airbags in the vehicle, indicating safety level which can influence claim probability.
 claim status: Indicates whether a claim was made (1) or not (0), which is the dependent variable the model aims to predict.
-
-
