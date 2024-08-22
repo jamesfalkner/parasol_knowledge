@@ -1,1 +1,1 @@
-This repo is the Knoweldge data for the Parasol app to train InstructLab. 
+This repo is the knowledge base data for the Parasol app to train InstructLab. 
