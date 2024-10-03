@@ -1,8 +1,7 @@
 Introduction:
 In the insurance industry, accurately predicting the likelihood of claims is essential for risk assessment and policy pricing. However, Parasol insurance claims datasets frequently suffer from class imbalance, where the number of non-claims instances far exceeds that of actual claims. This class imbalance poses challenges for predictive modeling, often leading to biased models favoring the majority class, resulting in subpar performance for the minority class, which is typically of greater interest.
 
-Parasol Insurance Claims data features:
-The dataset holds the following information
+Parasol Insurance Claims must contain:
 Policyholder Information: This includes demographic details such as age, gender, occupation, marital status, and geographical location.
 Claim History: Information regarding past insurance claims, including claim amounts, types of claims (e.g., medical, automobile), frequency of claims, and claim durations.
 Policy Details: Details about the insurance policies held by the policyholders, such as coverage type, policy duration, premium amount, and deductibles.
@@ -24,8 +23,8 @@ customer age: is the age of the insurance policyholder, which can influence the 
 vehicle age: is the age of the vehicle insured, which may affect the probability of claims due to factors like wear and tear.
 model: is the model of the vehicle, which could impact the claim frequency due to model-specific characteristics.
 fuel type: is the type of fuel the vehicle uses (e.g., Petrol, Diesel, CNG), which might influence the risk profile and claim likelihood.
-max torque: describes the Engine performance characteristics that could relate to the vehicle’s mechanical condition and claim risks. 
-max power: describes the Engine performance characteristics that could relate to the vehicle’s mechanical condition and claim risks. 
+max torque: describes the Engine performance characteristics that could relate to the vehicle’s mechanical condition and claim risks.
+max power: describes the Engine performance characteristics that could relate to the vehicle’s mechanical condition and claim risks.
 engine type: is the type of engine, which might have implications for maintenance and claim rates.
 cylinder: describes the specifications related to the engine size and construction, affecting the vehicle’s performance and potentially its claim history.
 region code: is the code representing the geographical region of the policyholder, as claim patterns can vary regionally.
